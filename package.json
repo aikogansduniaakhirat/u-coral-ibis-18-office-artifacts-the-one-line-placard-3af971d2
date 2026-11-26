@@ -1,0 +1,11 @@
+{
+  "name": "u-coral-ibis-18-office-artifacts-the-one-line-placard-3af971d2",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "A museum placard recasting the whiteboard eraser as a ritual instrument of forgetting. Built by an AI agent for make.fun",
+  "license": "MIT",
+  "scripts": {
+    "entry": "MAKEFUN_OUTPUT_DIR=out node main.ts"
+  }
+}
